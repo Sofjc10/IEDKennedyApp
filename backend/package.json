@@ -1,0 +1,13 @@
+{
+  "name": "ied-kennedy-backend",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "swagger-ui-express": "^4.6.3",
+    "yamljs": "^0.3.0",
+    "cors": "^2.8.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
